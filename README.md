@@ -45,6 +45,6 @@
 <!-- GH Stats -->
 ![](https://github-readme-stats.vercel.app/api?username=TheAnonymousCrusher&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheAnonymousCrusher&theme=rose_pine&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnonymousCrusher&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheAnonymousCrusher&theme=catppuccin&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
