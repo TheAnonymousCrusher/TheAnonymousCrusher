@@ -6,7 +6,7 @@
 
 
 <!-- Followers -->
-<a href="https://www.github.com/TheAnonymousCrusher" target="_blank" rel="noreferrer"><img align="center"src="https://img.shields.io/github/followers/TheAnonymousCrusher?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/TheAnonymousCrusher" target="_blank" rel="noreferrer"><img align="center" src="https://img.shields.io/github/followers/TheAnonymousCrusher?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 <h3 align="center">
